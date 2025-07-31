@@ -167,6 +167,5 @@ public class Main{
         t10.start();
         t11.start();
         t12.start();
-
     }
 }
